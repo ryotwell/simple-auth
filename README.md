@@ -21,7 +21,7 @@ The recommended way to install simple-auth is through
 
 ## Configuration
 
-**config/simpleauth.php**
+`config/simpleauth.php`
 ```
 <?php
 
@@ -60,7 +60,7 @@ Auth::sessionStart()
 ```
 
 ### Example usage
-**login.php**
+`login.php`
 ````
 <?php
 
