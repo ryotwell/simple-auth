@@ -1,0 +1,25 @@
+{
+    "name": "ryodevz/simple-auth",
+    "description": "Simple auth for your project.",
+    "keywords": ["ryodevz", "auth", "simple-auth"],
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ryodevz",
+            "email": "ytryo789@gmail.com"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://github.com/ryodevz/simple-auth"
+        }
+    ],
+    "autoload": {
+        "psr-4": {"Ryodevz\\": "src/"}
+    },
+    "require": {
+        "php": "^7.3|^8.0"
+    }
+}
