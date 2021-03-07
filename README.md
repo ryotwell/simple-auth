@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- PHP ^7.3
+- PHP ^7.0
 
 ## Features
 
@@ -22,7 +22,7 @@ The recommended way to install simple-auth is through
 ## Configuration
 
 `config/simpleauth.php`
-```
+```php
 <?php
 
 return [
