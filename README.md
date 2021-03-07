@@ -55,13 +55,13 @@ return [
 ```
 
 ### Start session
-```
+```php
 Auth::sessionStart()
 ```
 
 ### Example usage
 `login.php`
-````
+```php
 <?php
 
 use Ryodevz\Auth;
@@ -109,4 +109,4 @@ if (Auth::user()->username) {
 </body>
 
 </html>
-````
+```
