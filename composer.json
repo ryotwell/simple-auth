@@ -20,7 +20,7 @@
         "psr-4": {"Ryodevz\\": "src/"}
     },
     "require": {
-        "php": "^7.3|^8.0",
+        "php": "^7.0",
         "ryodevz/httpfulwrapper": "^1.0"
     }
 }
